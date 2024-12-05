@@ -1,0 +1,2 @@
+# getEquipmentsFromEventShop
+ＭＳＯのイベントショップより装備品の情報を取得します。
